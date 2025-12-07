@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Railway Cable Joint Tracker</string>
+    <string name="add_data">Add Data</string>
+    <string name="show_joint_info">Show Joint Info</string>
+    <string name="show_map">Show Map</string>
+    <string name="reports">Reports</string>
+</resources>
