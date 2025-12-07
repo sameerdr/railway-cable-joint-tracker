@@ -1,6 +1,8 @@
 package com.railway.cablejoint.models;
 
-public class JointData {
+import java.io.Serializable;
+
+public class JointData implements Serializable {
     private String date;
     private String section;
     private String subSection;
